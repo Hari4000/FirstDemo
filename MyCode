@@ -1,0 +1,8 @@
+Class Java
+{
+    public static void main(String[] args)
+    {
+        int i=012;
+        System.out.println(i);
+    }
+}
